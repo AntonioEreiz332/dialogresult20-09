@@ -1,0 +1,10 @@
+C:\Users\Učenik 8\source\repos\prvizad20-09\bin\Debug\prvizad20-09.exe.config
+C:\Users\Učenik 8\source\repos\prvizad20-09\bin\Debug\prvizad20-09.exe
+C:\Users\Učenik 8\source\repos\prvizad20-09\bin\Debug\prvizad20-09.pdb
+C:\Users\Učenik 8\source\repos\prvizad20-09\obj\Debug\prvizad20-09.csprojAssemblyReference.cache
+C:\Users\Učenik 8\source\repos\prvizad20-09\obj\Debug\prvizad20_09.Form1.resources
+C:\Users\Učenik 8\source\repos\prvizad20-09\obj\Debug\prvizad20_09.Properties.Resources.resources
+C:\Users\Učenik 8\source\repos\prvizad20-09\obj\Debug\prvizad20-09.csproj.GenerateResource.cache
+C:\Users\Učenik 8\source\repos\prvizad20-09\obj\Debug\prvizad20-09.csproj.CoreCompileInputs.cache
+C:\Users\Učenik 8\source\repos\prvizad20-09\obj\Debug\prvizad20-09.exe
+C:\Users\Učenik 8\source\repos\prvizad20-09\obj\Debug\prvizad20-09.pdb
